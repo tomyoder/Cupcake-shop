@@ -1,1 +1,33 @@
-p {font-style: bold;}
+body {
+  background-color: #f6bcff;
+  text-align: center;
+}
+
+p {
+  text-align: left;
+  font-family: 'Dancing Script', cursive;
+  font-size: 40px;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Dancing Script', cursive;
+  font-size: 80px;
+}
+
+h2 {
+  text-align: center;
+  font-family: 'Dancing Script', cursive;
+  font-size: 60px;
+}
+
+.best {
+  background: #9ef5ff;
+  padding: 20px;
+
+}
+
+.flashy {
+  color: red;
+  text-style: italic;
+}
